@@ -1,4 +1,4 @@
-## Desafío Latam - Proyecto de Operaciones Matemáticas y Conversiones de Temperatura
+## Desafío Opcional Operaciones
 Este proyecto ha sido realizado como parte de los requisitos del curso Fullstack JavaScript en Desafío Latam. Consiste en una serie de programas que realizan diferentes operaciones matemáticas y conversiones de temperatura.
 
 ## Requerimientos del Proyecto
